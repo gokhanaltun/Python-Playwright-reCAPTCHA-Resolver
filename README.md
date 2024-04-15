@@ -35,7 +35,7 @@ if error:
 - It will resolve the Google reCAPTCHA on the provided "page."
 - If an error occurs, it will return an "error"; otherwise, the error will be "None."
 
-## Sample
+## Example
 
 An example of solving the reCAPTCHA at the "https://www.google.com/recaptcha/api2/demo" address.
 
